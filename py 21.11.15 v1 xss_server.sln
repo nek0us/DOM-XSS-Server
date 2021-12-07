@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "py 21.11.15 v1 xss_server", "py 21.11.15 v1 xss_server.pyproj", "{D3ED079C-904F-4EC6-8FF3-1063063B15F1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D3ED079C-904F-4EC6-8FF3-1063063B15F1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D3ED079C-904F-4EC6-8FF3-1063063B15F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {101CE807-C87A-4481-B44B-CB474A7B9351}
+	EndGlobalSection
+EndGlobal
